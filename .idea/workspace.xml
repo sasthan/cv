@@ -24,12 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b227941a-1f8b-491b-b3f2-3c9a27dea68c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ShubhiAsthana-CV_SSE_2020.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/data.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/data.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="b227941a-1f8b-491b-b3f2-3c9a27dea68c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
